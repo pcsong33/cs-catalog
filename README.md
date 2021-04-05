@@ -9,7 +9,7 @@ Hahn Lheem, Patrick Song, Neo Guerrero, Jack Boettcher
 
 ## About
 
-Analyzing Harvard's course catalogs from 1999-2020 to highlight the rise in interest in Harvard's CS department.
+Analyzing Harvard's course catalogs from 1999-2020 to highlight the expansion of Harvard's CS department.
 
 ## Setup
 
